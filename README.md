@@ -169,13 +169,13 @@ Enjoy exploring NOVA and make your everyday tasks simpler and more efficient!
 
 ## Contributors
 
-Mrunali Kodhe
-Snehal Rakas
-Musharrif Shaikh
+### 1.Mrunali Kodhe
+### 2.Snehal Rakas
+### 3.Musharrif Shaikh
 
 
 **Contact Information:**
-For any issues or feedback, please feel free to reach out to snehalgjrakas118@gmail.comor raise an issue in the GitHub repository.
+For any issues or feedback, please feel free to reach out to snehalgjrakas118@gmail.com raise an issue in the GitHub repository.
 
 ---
 
