@@ -147,7 +147,7 @@ To add more APIs, simply:
 
 ### 3. **Does NOVA support other operating systems?**
 
-Currently, NOVA is optimized for macOS and uses macOS-specific features such as subprocess integration. To run NOVA on other operating systems like Windows or Linux, additional modifications are required, especially for system commands.
+Currently, NOVA is optimized for macOS and uses macOS-specific features such as subprocess integration. To run NOVA on other operating systems like Windows or Linux, additional modifications are required, especially for system commands. Additionally there is another version of NOVA for the windows.
 
 ---
 
